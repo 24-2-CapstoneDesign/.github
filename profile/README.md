@@ -40,7 +40,7 @@ https://youtu.be/X-qgzoJKDME?si=NKuGbQ6zSwxzglNe
 ## 1. 개발환경
 - [Front-End]
 	- Xcode, SwiftUI, Vision Pro
-- Back-End
+- [Back-End]
 	- Java, Spring Boot,
 	- MySQL, Spring Data JPA
 	- AWS : EC2, RDS, S3
