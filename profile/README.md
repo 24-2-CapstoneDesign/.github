@@ -30,7 +30,7 @@ https://youtu.be/X-qgzoJKDME?si=NKuGbQ6zSwxzglNe
 &nbsp;
 ## 팀원 구성
 
-| 정의찬                                                                                                                                | 이수은                                                                                                                                           | 한정민                                                                                                                                           |
+| 정의찬                                                                                                                                | 한정민                                                                                                                                           | 이수은                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src = "https://github.com/24-2-CapstoneDesign/Front_iOS/assets/80624315/eacbaca2-453a-4366-ab9b-c35beea65a9b" width = "300"/> | <img width="325" alt="image" src="https://github.com/24-2-CapstoneDesign/Back_Spring/assets/80567210/66ce2d03-95c6-4dc9-9e1d-bd469e0cb722" /> | <img width="325" alt="image" src="https://github.com/24-2-CapstoneDesign/Back_Spring/assets/80567210/55cd2230-cfda-46f5-892a-8e2908b3c5c1" /> |
 | <center>iOS Developer</center>                                                                                                     | <center>Server Developer</center>                                                                                                             | <center>Server Developer</center>                                                                                                             |
@@ -588,7 +588,7 @@ BookSpud 서버는 MVC 패턴을 기반으로 개발했습니다.
 
 &nbsp;
 
-###  😜 이수은
+###  😜 한정민
 - **기능**
 	-  프로젝트 구조 설계
 	- 소셜 로그인 관련 기능 구현
@@ -596,7 +596,7 @@ BookSpud 서버는 MVC 패턴을 기반으로 개발했습니다.
 
 &nbsp;
 
-### 😝 한정민
+### 😝 이수은
 - **기능**
 	- 프로젝트 구조 설계
 	- 프로젝트 배포
